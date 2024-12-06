@@ -297,7 +297,7 @@ h4{
     <header>
     <nav>
         <ul class='nav-bar'>
-            <div class="text-2xl text-primary">𝐌𝐀𝐃𝐄 𝐁𝐘 𝐕𝐈𝐇𝐀𝐀𝐍♚</div>
+            <div class="text-2xl text-primary">𝐌𝐀𝐃𝐄 𝐁𝐘 𝐄𝐑𝐈𝐈𝐂♚</div>
             <input type='checkbox' id='check' />
             <span class="menu">
                 <li><a href="https://github.com/VIHAANRajput0/Web-to-web-single/blob/main/README.md">WEB TO WEB SINGLE</a ></li>
@@ -315,17 +315,17 @@ h4{
     </nav>
     </header>
     <br />
-    <h2>WEB SERVER OWNER ➤ VIHAAN</h2>
+    <h2>WEB SERVER OWNER ➤ ERIIC</h2>
     <br />
     <div class="image-container">
-  <img src="https://i.ibb.co/pxVC5tD/20241206-044401.jpg" alt="Image" class="image">
+  <img src="https://i.ibb.co/30v2b0W/20241206-015908.jpg" alt="Image" class="image">
    <h1>➤ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ ᴏᴡɴᴇʀ꧂</h1>
 <br />
 <button class="button-34" role="button" onclick="window.location.href='https://wa.link/1l1un7'">⊲ CONTACT ⊳</button>
     <br />
     <br />
         <div class="image-containe">
- <img src="https://i.ibb.co/M94XJYM/20241206-043539.jpg" alt="Image" class="image">
+ <img src="https://i.ibb.co/S7FGznW/20241206-101436.jpg" alt="Image" class="image">
  <h1>➤ MULTY TOKEN + SINGLE TOKEN CONVO SERVER FOR INBOX/GROUP CHAT CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂</h1>
  <br />
  <button class="button-34" role="button" onclick="window.location.href='https://l44d.onrender.com'">⊲ CHECK ⊳</button>
@@ -339,42 +339,42 @@ h4{
     <br />
     <br />
             <div class="imager">
- <img src="https://i.ibb.co/r7ytDLJ/20241206-050515.jpg" alt="Image" class="image">
+ <img src="https://i.ibb.co/JRdPt0L/20241206-014829.jpg" alt="Image" class="image">
     <h1>➤ MULTY POST LOADER PAGE ID + SIMPLE ID + ANTHER IDZ COOKIES SERVER CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂</h1>
  <br />
  <button class="button-34" role="button" onclick="window.location.href='https://mut1-p05t-2.onrender.com"'>⊲ CHECK ⊳</button>
     <br />
     <br />
             <div class="imager">
- <img src="https://i.ibb.co/f8330GT/20241206-043217.jpg" alt="Image" class="image">
+ <img src="https://i.ibb.co/PsyYhk3/20241206-020914.jpg" alt="Image" class="image">
  <h1>➤ SINGLE COOKIE POST LOADER FOR POST FYT CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂ </h1>
  <br />
  <button class="button-34" role="button" onclick="window.location.href='https://mut1-p05t-2.onrender.com'">⊲ CHECK ⊳</button>
     <br />
     <br />
            <div class="imager">
- <img src="https://i.ibb.co/fY0dDfb/20241206-043813.jpg" alt="Image" class="image">
+ <img src="https://i.ibb.co/GPzgj1j/20241206-015235.jpg" alt="Image" class="image">
  <h1>➤ TOKEN CHECKER TOOL FOR CHECKING YOUR TOKEN IS VALID OR INVAILD CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂</h1>
  <br />
  <button class="button-34" role="button" onclick="window.location.href='https://token-checker-4.onrender.com'">⊲ CHECK ⊳</button>
     <br />
     <br />
           <div class="imager">
- <img src="https://i.ibb.co/YZCvjDy/20241206-044030.jpg" alt="Image" class="image">
+ <img src="https://i.ibb.co/rdnxG1s/20241206-015341.jpg" alt="Image" class="image">
  <h1>➤ MULTY WEB TO WEB MSG SEND TOOL FOR INBOX/GROUP CHAT CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂</h1>
  <br />
  <button class="button-34" role="button" onclick="window.location.href='https://github.com/VIHAANRajput0/Multy-web-to-web/blob/main/README.md'">⊲ CHECK ⊳</button>
     <br />
     <br />
           <div class="imager">
- <img src="https://i.ibb.co/t4LH3H6/20241206-043842.jpg" alt="Image" class="image">
+ <img src="https://i.ibb.co/Hhx0tPz/20241206-015437.jpg" alt="Image" class="image">
      <h1>➤ WHATSAPP LOADER TOOL FOR INBOX CHAT CLICK ON CHECK BUTTON FOR USING THIS TOOL꧂</h1>
  <br />
  <button class="button-34" role="button" onclick="window.location.href='https://github.com/ERIIC-3XO/WHATSAPP/blob/main/README.md'">⊲ CHECK ⊳</button>
     <br />
     <br />
        <div class="imager">
- <img src="https://i.ibb.co/SNM3RSL/20241206-044227.jpg" alt="Image" class="image">
+ <img src="https://i.ibb.co/0fmY9DZ/20241206-015746.jpg" alt="Image" class="image">
  <h1>➤ ALL WEB TO WEB TOOLS + ALL TERMUX TOOLS K LIYA UPER 3 DOT PY CLICK KARO꧂</h1>
  <br />
     <br />
@@ -394,8 +394,8 @@ h4{
       </div>
       
       <div class="mt-4 md:mt-0 text-center">
-        <p>© 2024 VIHAAN DON. All Rights Reserved.</p>
-        <p>Made with ❤️ by <a href="">VIHAAN DON</a></p>
+        <p>© 2024 ERIIC TRICKER. All Rights Reserved.</p>
+        <p>Made with ❤️ by <a href="">ERIIC TRICKER</a></p>
       </div>
         <br />
     </div>
